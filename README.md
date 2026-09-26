@@ -46,17 +46,13 @@
 <img src="https://skillicons.dev/icons?i=javascript,java" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🏥 Apollo Pharmacy Clone
+### 💊 Apollo Pharmacy Clone
 
 A responsive pharmacy website clone with modern UI, product sections, cart functionality and location search.
 
 **Tech:** HTML • CSS • JavaScript
 
----
+🔗 [Live Demo](YOUR_APOLLO_LIVE_LINK)
 
 ### 🌦️ Weather App
 

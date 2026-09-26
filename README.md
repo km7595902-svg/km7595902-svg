@@ -46,6 +46,19 @@
 <img src="https://skillicons.dev/icons?i=javascript,java" />
 </p>
 
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,java" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,js,java,nodejs,threejs" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,java,c,nodejs,threejs" />
+</p>
+
 ---
 
 ### 💊 Apollo Pharmacy Clone

@@ -89,7 +89,7 @@ A modern dashboard for managing products and orders.
 
 **Tech:** React • JavaScript • Tailwindcss • Vite
 
-🔗 [Live Demo]()
+🔗 [Live Demo](https://km7595902-svg.github.io/e-commerce-dashboard/)
 
 ---
 

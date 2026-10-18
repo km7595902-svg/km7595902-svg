@@ -75,6 +75,22 @@ A simple notes application with local storage support.
 
 ---
 
+### 🪐 3D Orbit Gallery
+
+An interactive 3D gallery with rotating images.
+
+**Tech:** React • Three.js • React Three Fiber
+
+---
+
+### 🛍️ E-Commerce Dashboard
+
+A modern dashboard for managing products and orders.
+
+**Tech:** React • JavaScript • CSS • Vite
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">

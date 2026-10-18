@@ -87,7 +87,9 @@ An interactive 3D gallery with rotating images.
 
 A modern dashboard for managing products and orders.
 
-**Tech:** React • JavaScript • CSS • Vite
+**Tech:** React • JavaScript • Tailwindcss • Vite
+
+🔗 [Live Demo]()
 
 ---
 
